@@ -1,0 +1,9 @@
+{
+  "name": "SocialBoost Pro",
+  "description": "Enterprise-grade AI Social Media Manager for Nigerian Businesses. Integrated with Gemini 3, Veo, and Imagen Forge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
